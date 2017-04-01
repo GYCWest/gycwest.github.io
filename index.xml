@@ -1,12 +1,258 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GYC West</title>
-    <link>https://gycwest.com/</link>
-    <description>Recent content on GYC West</description>
+    <title>Reflect: The Daily Experience, 2017 on GYC West</title>
+    <link>https://gycwest.com/index.xml</link>
+    <description>Recent content in Reflect: The Daily Experience, 2017 on GYC West</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gycwest.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Archives</title>
+      <link>https://gycwest.com/archives</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/archives</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+&lt;/style&gt;
+&lt;section&gt;
+	&lt;h1&gt;2016 — Identity: Who Are We?&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;p&gt;&lt;b&gt;Location:&lt;/b&gt; Pine Hills Academy in Auburn, CA.&lt;/p&gt;
+		&lt;p&gt;&lt;b&gt;Text:&lt;/b&gt; &#34;And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.&#34; — Romans 12:2 (NKJV)&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Media&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://gycwest.com/download/2016/Identity5_Location-1-page-001.jpg&#34;&gt;Printable Flyer&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&#34;https://www.audioverse.org/english/sermons/conferences/254/gyc-west-2016-identity-who-are-we.html&#34;&gt;AudioVerse Recordings&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Additional Reading&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://gycwest.com/2016/idcrisis&#34;&gt;The Modern Day Identity Crisis by Joshua Larson&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+&lt;section&gt;
+	&lt;h1&gt;2015 — Saved to Serve&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;p&gt;&lt;b&gt;Location:&lt;/b&gt; Weimar College in Weimar, CA.&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Media&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://www.audioverse.org/english/sermons/conferences/221/gyc-west-2015-saved-to-serve.html&#34;&gt;AudioVerse Recordings&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+&lt;section&gt;
+	&lt;h1&gt;2014 — I AM: The Conflict Continues&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;p&gt;&lt;b&gt;Location:&lt;/b&gt; Weimar College in Weimar, CA.&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Media&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://www.audioverse.org/english/sermons/conferences/186/gyc-west-2014-i-am-the-conflict-continues.html&#34;&gt;AudioVerse Recordings&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+&lt;section&gt;
+	&lt;h1&gt;2013 — Always Ready&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;p&gt;&lt;b&gt;Location:&lt;/b&gt; Weimar College in Weimar, CA.&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Media&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://www.audioverse.org/english/sermons/conferences/159/wyc-2013-always-ready.html&#34;&gt;AudioVerse Recordings&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+&lt;section&gt;
+	&lt;h1&gt;2012 — Fall Afresh&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;p&gt;&lt;b&gt;Location:&lt;/b&gt; Weimar College in Weimar, CA.&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Media&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://www.audioverse.org/english/sermons/conferences/120/wyc-2012-fall-afresh.html&#34;&gt;AudioVerse Recordings&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+&lt;section&gt;
+	&lt;h1&gt;2011 — Alive Again!&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;p&gt;&lt;b&gt;Location:&lt;/b&gt; Weimar College in Weimar, CA.&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Media&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://www.audioverse.org/english/sermons/conferences/81/wyc-2011-alive-again.html&#34;&gt;AudioVerse Recordings&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+&lt;section&gt;
+	&lt;h1&gt;2010 — In His Image&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;p&gt;&lt;b&gt;Location:&lt;/b&gt; Weimar College in Weimar, CA.&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Media&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://www.audioverse.org/english/sermons/conferences/81/wyc-2011-alive-again.html&#34;&gt;AudioVerse Recordings&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+&lt;section&gt;
+	&lt;h1&gt;2009 — This Mind In You&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;p&gt;&lt;b&gt;Location:&lt;/b&gt; Weimar College in Weimar, CA.&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Media&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://www.audioverse.org/english/sermons/conferences/26/wyc-2009-this-mind-in-you.html&#34;&gt;AudioVerse Recordings&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+&lt;section&gt;
+	&lt;h1&gt;2008 — Something Better&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;p&gt;&lt;b&gt;Location:&lt;/b&gt; Weimar College in Weimar, CA.&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Media&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://www.audioverse.org/english/sermons/conferences/13/wyc-2008-something-better.html&#34;&gt;AudioVerse Recordings&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+&lt;section&gt;
+	&lt;h1&gt;2007 — Be Like Jesus&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;p&gt;&lt;b&gt;Location:&lt;/b&gt; Weimar College in Weimar, CA.&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h2&gt;Media&lt;/h2&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href=&#34;https://www.audioverse.org/english/sermons/conferences/10/wyc-2007-be-like-jesus.html&#34;&gt;AudioVerse Recordings&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handout downloads for GYC West 2017</title>
+      <link>https://gycwest.com/handouts</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/handouts</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+	
+&lt;/style&gt;
+&lt;section&gt;
+	&lt;h1&gt;Printable Flyers&lt;/h1&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href=&#34;&#34;&gt;...&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meet GYC West</title>
+      <link>https://gycwest.com/about</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/about</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+	#inspiration_box {
+		background-image: url(&#34;/img/texture-2136831.jpg&#34;);
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+&lt;/style&gt;
+&lt;section&gt;
+	&lt;h1&gt;Mission Statement&lt;/h1&gt;
+	&lt;p&gt;GYC West is an organization of Seventh-day Adventist youth and young adults in the western United States. We believe that the Lord is forming His army of workers in these last days and our prayer is that GYC West would be a vessel through which Jesus Christ can reveal His will.&lt;/p&gt;
+	&lt;h1&gt;Purpose&lt;/h1&gt;
+	&lt;p&gt;GYC West seeks to provide an annual conference featuring high quality messages for young people living in the western portion of our country. We believe in the power of convocation and that when two or more are gathered together in the name of Jesus, He is there in the midst of us. If you are planning on being in the area, we invite you to come. We also invite you to use this conference as a means of personal evangelism for friends of yours that may be struggling in their faith. We know the Lord will bless as we seek the unity that Christ wants for His church as exemplified in the Gospel of John chapter 17. We hope to see you there!&lt;/p&gt;
+&lt;/section&gt;
+&lt;section class=&#34;quote_block&#34; id=&#34;inspiration_box&#34;&gt;
+	&lt;h1&gt;Inspiration Box&lt;/h1&gt;
+	&lt;p&gt;A Christian reveals true humility by showing the gentleness of Christ, by being &lt;b&gt;always ready&lt;/b&gt; to help others, by speaking kind words and performing unselfish acts, which elevate and ennoble the most sacred message that has come to our world.&lt;/p&gt;
+	&lt;p class=&#34;source_ref&#34;&gt;Christian Experience and Teachings of Ellen G. White 74.2&lt;/p&gt;
+&lt;/section&gt;
+&lt;!--
+&lt;section&gt;
+	&lt;h1&gt;GYC West Staff&lt;/h1&gt;
+	&lt;article&gt;
+		&lt;h1&gt;Director: Joshua Larson (2014+)&lt;/h1&gt;
+		&lt;img src=&#34;https://gycwest.com/img/staff/2014/josh_larson.jpg&#34;/&gt;
+		&lt;p&gt;I work as a Civil Engineer and received my baccalaureate at Sacramento State University. My main ministry is serving at my local church as deacon, pianist, and Sabbath school teacher. I really enjoy cross-fit and do-it-yourself projects at home. I am married to Ashley the best wife in the world.&lt;/p&gt;
+	&lt;/article&gt;
+	&lt;article&gt;
+		&lt;h1&gt;Secretary:  (2017+)&lt;/h1&gt;
+		&lt;img src=&#34;https://gycwest.com/img/staff/2017/josh_larson.jpg&#34;/&gt;
+		&lt;p&gt;I work as a Civil Engineer and received my baccalaureate at Sacramento State University. My main ministry is serving at my local church as deacon, pianist, and Sabbath school teacher. I really enjoy cross-fit and do-it-yourself projects at home. I am married to Ashley the best wife in the world.&lt;/p&gt;
+	&lt;/article&gt;
+&lt;/section&gt;
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Register for GYC West 2017</title>
+      <link>https://gycwest.com/registration</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/registration</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+	body &gt; section:first-of-type::before {
+		background-image: none;
+	}
+&lt;/style&gt;
+&lt;section&gt;
+	&lt;p&gt;Please note the following conditions:&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;Registrants age 15 or younger must have a paid chaperon.&lt;/li&gt;
+		&lt;li&gt;Children age 9 or younger are free with a paid chaperon.&lt;/li&gt;
+	&lt;/ul&gt;	
+	&lt;script type=&#34;text/javascript&#34; src=&#34;https://form.jotform.us/jsform/70488188587172&#34;&gt;&lt;/script&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meet GYC West</title>
+      <link>https://gycwest.com/2016/idcrisis</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/2016/idcrisis</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+	.written_by {
+		text-align: right;
+		font-style: italic;
+	}
+&lt;/style&gt;
+&lt;section&gt;
+	&lt;h1&gt;The Modern Day Identity Crisis&lt;/h1&gt;
+	&lt;p&gt;Who are we? Where do we come from? What does it mean to be a Seventh-day Adventist? These are questions that too many times go unanswered. Many of us young people are leaving the church because we don’t understand at its core what it means to be a Seventh-day Adventist. We want to be part of something that is more than just a list of beliefs. We are looking for something deeper. We know our twenty eight fundamental beliefs, but we don’t really know who we are, where we come from, and what our purpose is; we don’t seem to understand our identity.&lt;/p&gt;
+	&lt;p&gt;It is Satan who is seeking to keep us from seeing our true identity. He is attacking Seventh-day Adventist young people with every deception he has because he is afraid of an army of young people that understand their identity and purpose. He has reason to fear. After Peter, inspired by the Holy Spirit, proclaimed Jesus as the Christ, Jesus said “on this rock I will build my church, and the gates of Hades shall not prevail against it.” Matt. 16:18. Jesus is the rock and foundation of the church and it is upon Him that the church must be founded. When the church is truly centered on the Rock our redeemer it will be empowered to fulfill its purpose and even the gates of Hades will not be able to stop it. Satan knows that if we understand who we are, where we came from, and what our purpose is that young people will engage in the church and push forward the work and we will finally be able to complete our mission.&lt;/p&gt;
+	&lt;p&gt;In a world of conformity and ecumenicalism we are called not to conform, but to be a unique people. Peter says it this way in 1 Peter 2:9 “But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light.” We are to be Gods peculiar, special, unique people. We are not to strive to be just like everyone else, but we are to strive to be exactly what God has called us to be. Romans 12:2 says “And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.” If we are to be God’s unique people we must have a clear understanding of what makes us unique. If we are to be God’s chosen people we must know for what purpose we have been chosen. If we are to prove who God really is, what is the good and acceptable and perfect will of God, we must be restored into a deep and abiding relationship with God.&lt;/p&gt;
+	&lt;p&gt;It is the desire of GYC West that as we study our identity and the identity of Seventh-day Adventism together we will learn: Who we are as Seventh-day Adventists and what our purpose is, how we can fight against the temptations and addictions that degrade us and rob us of our true identity, and where we can find restoration in Christ and the healing communion with Him. May God give us each grace and wisdom as we seek to come closer to Him and equip ourselves to fulfill our mission.&lt;/p&gt;
+	&lt;p class=&#34;written_by&#34;&gt;— Joshua Larson, 2016&lt;/p&gt;
+&lt;/section&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

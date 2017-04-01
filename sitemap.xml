@@ -2,7 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gycwest.com/archives</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gycwest.com/handouts</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gycwest.com/about</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gycwest.com/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gycwest.com/registration</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gycwest.com/2016/idcrisis</loc>
+    <lastmod>2016-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gycwest.com/2016/</loc>
+    <lastmod>2016-03-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
