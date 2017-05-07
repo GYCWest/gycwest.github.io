@@ -12,6 +12,25 @@
     
     
     <item>
+      <title>Booth Registration for GYC West 2017</title>
+      <link>https://gycwest.com/registration/booth/</link>
+      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/registration/booth/</guid>
+      <description>body  section:first-of-type::before { background-image: none; }    Please note that every attendee has to be registered individually, including the people operating the booth.
+    </description>
+    </item>
+    
+    <item>
+      <title>Registration Complete</title>
+      <link>https://gycwest.com/registration/complete/</link>
+      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/registration/complete/</guid>
+      <description>body  section:first-of-type::before { background-image: none; }   Thank you for registering!  </description>
+    </item>
+    
+    <item>
       <title>Archives</title>
       <link>https://gycwest.com/archives/</link>
       <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
@@ -39,18 +58,6 @@ Text: &#34;And do not be conformed to this world, but be transformed by the rene
       <guid>https://gycwest.com/about/</guid>
       <description>#inspiration_box { background-image: url(&#34;/img/texture-2136831.jpg&#34;); background-position: center; background-size: cover; background-repeat: no-repeat; }   Mission Statement GYC West is an organization of Seventh-day Adventist youth and young adults in the western United States. We believe that the Lord is forming His army of workers in these last days and our prayer is that GYC West would be a vessel through which Jesus Christ can reveal His will.
 Purpose GYC West seeks to provide an annual conference featuring high quality messages for young people living in the western portion of our country.</description>
-    </item>
-    
-    <item>
-      <title>Register for GYC West 2017</title>
-      <link>https://gycwest.com/registration/</link>
-      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gycwest.com/registration/</guid>
-      <description>body  section:first-of-type::before { background-image: none; }   Please note the following conditions:
- Registrants age 15 or younger must have a paid chaperon. Children age 9 or younger are free with a paid chaperon.  Earlybird pricing lasts until the first of May!
- Lodging options:
- Camping on Pine Hills Adventist Academy campus. (Free) Local hotels are available within 5-10 minutes of Pine Hills. (Prices vary) A few RV locations are available, no hookups.</description>
     </item>
     
     <item>

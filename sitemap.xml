@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gycwest.com/registration/booth/</loc>
+    <lastmod>2017-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gycwest.com/registration/complete/</loc>
+    <lastmod>2017-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gycwest.com/archives/</loc>
     <lastmod>2017-03-31T00:00:00+00:00</lastmod>
   </url>
