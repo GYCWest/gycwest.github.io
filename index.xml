@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reflect: The Daily Experience, 2017 on GYC West</title>
+    <title>Reviving the Right Arm: The Practice of Physical and Mental Health, 2018 on GYC West</title>
     <link>https://gycwest.com/</link>
-    <description>Recent content in Reflect: The Daily Experience, 2017 on GYC West</description>
+    <description>Recent content in Reviving the Right Arm: The Practice of Physical and Mental Health, 2018 on GYC West</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gycwest.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Archives</title>
+      <link>https://gycwest.com/archives/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/archives/</guid>
+      <description>2017 — Reflect: The Daily Experience  Location: Pine Hills Academy in Auburn, CA.
+Text: &#34;Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.&#34; — Matthew 5:16 (KJV)
+  Media  Recordings of the live-stream from the main hall AudioVerse Recordings --     2016 — Identity: Who Are We?  Location: Pine Hills Academy in Auburn, CA.</description>
+    </item>
     
     <item>
       <title>Booth Registration for GYC West 2017</title>
@@ -38,17 +49,6 @@
       
       <guid>https://gycwest.com/registration/complete/</guid>
       <description>body  section:first-of-type::before { background-image: none; }   Thank you for registering!  </description>
-    </item>
-    
-    <item>
-      <title>Archives</title>
-      <link>https://gycwest.com/archives/</link>
-      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gycwest.com/archives/</guid>
-      <description>2016 — Identity: Who Are We?  Location: Pine Hills Academy in Auburn, CA.
-Text: &#34;And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.&#34; — Romans 12:2 (NKJV)
-  Media  Printable Flyer AudioVerse Recordings    Additional Reading  The Modern Day Identity Crisis by Joshua Larson     2015 — Saved to Serve  Location: Weimar College in Weimar, CA.</description>
     </item>
     
     <item>

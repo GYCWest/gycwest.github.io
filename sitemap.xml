@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gycwest.com/archives/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gycwest.com/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gycwest.com/registration/booth/</loc>
     <lastmod>2017-05-07T00:00:00+00:00</lastmod>
   </url>
@@ -18,22 +28,12 @@
   </url>
   
   <url>
-    <loc>https://gycwest.com/archives/</loc>
-    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gycwest.com/handouts/</loc>
     <lastmod>2017-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gycwest.com/about/</loc>
-    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gycwest.com/</loc>
     <lastmod>2017-03-31T00:00:00+00:00</lastmod>
   </url>
   
