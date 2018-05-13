@@ -6,10 +6,29 @@
     <description>Recent content in Reviving the Right Arm: The Practice of Physical and Mental Health, 2018 on GYC West</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gycwest.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exhibitor Registration for GYC West 2018</title>
+      <link>https://gycwest.com/registration/booth/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/registration/booth/</guid>
+      <description>window.location = &#34;https://register.gycwest.com/?type=exhibitor&#34;;  body  section:first-of-type::before { background-image: none; }    Please note that every attendee has to be registered individually, including the people operating the booth.
+    -- </description>
+    </item>
+    
+    <item>
+      <title>Handout downloads for GYC West 2018</title>
+      <link>https://gycwest.com/handouts/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/handouts/</guid>
+      <description>  Printable Flyers  2018 Flyer   </description>
+    </item>
     
     <item>
       <title>Volunteering</title>
@@ -33,26 +52,6 @@ Text: &#34;Let your light so shine before men, that they may see your good works
     </item>
     
     <item>
-      <title>Booth Registration for GYC West 2017</title>
-      <link>https://gycwest.com/registration/booth/</link>
-      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gycwest.com/registration/booth/</guid>
-      <description>body  section:first-of-type::before { background-image: none; }    Please note that every attendee has to be registered individually, including the people operating the booth.
-    </description>
-    </item>
-    
-    <item>
-      <title>Meal Purchases for GYC West 2017</title>
-      <link>https://gycwest.com/registration/food/</link>
-      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gycwest.com/registration/food/</guid>
-      <description>body  section:first-of-type::before { background-image: none; }   
- --    </description>
-    </item>
-    
-    <item>
       <title>Registration Complete</title>
       <link>https://gycwest.com/registration/complete/</link>
       <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
@@ -68,15 +67,6 @@ Text: &#34;Let your light so shine before men, that they may see your good works
       
       <guid>https://gycwest.com/donate/</guid>
       <description>#inspiration_box { background-image: url(&#34;/img/texture-2136831.jpg&#34;); background-position: center; background-size: cover; background-repeat: no-repeat; }   An Explanation GYC West seeks to provide an annual conference featuring high quality messages for young people living in the western portion of our country. We believe in the power of convocation and that when two or more are gathered together in the name of Jesus, He is there in the midst of us. We know the Lord will bless as we seek the unity that Christ wants for His church as exemplified in the Gospel of John chapter 17.</description>
-    </item>
-    
-    <item>
-      <title>Handout downloads for GYC West 2017</title>
-      <link>https://gycwest.com/handouts/</link>
-      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gycwest.com/handouts/</guid>
-      <description>  Printable Flyers  ...   </description>
     </item>
     
     <item>
