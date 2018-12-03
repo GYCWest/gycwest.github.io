@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reviving the Right Arm: The Practice of Physical and Mental Health, 2018 on GYC West</title>
+    <title>Let these stand, 2019 on GYC West</title>
     <link>https://gycwest.com/</link>
-    <description>Recent content in Reviving the Right Arm: The Practice of Physical and Mental Health, 2018 on GYC West</description>
+    <description>Recent content in Let these stand, 2019 on GYC West</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gycwest.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Volunteering</title>
+      <link>https://gycwest.com/registration/volunteer/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/registration/volunteer/</guid>
+      <description>body  section:first-of-type::before { background-image: none; } iframe { width: 100%; height: 800px; }   
+ -- Loading...   </description>
+    </item>
     
     <item>
       <title>Handout downloads for GYC West 2018</title>
@@ -18,16 +28,6 @@
       
       <guid>https://gycwest.com/handouts/</guid>
       <description>  Printable Flyers  2018 Flyer   </description>
-    </item>
-    
-    <item>
-      <title>Volunteering</title>
-      <link>https://gycwest.com/registration/volunteer/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gycwest.com/registration/volunteer/</guid>
-      <description>body  section:first-of-type::before { background-image: none; } iframe { width: 100%; height: 800px; }   
- -- Loading...   </description>
     </item>
     
     <item>
