@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://gycwest.com/registration/</loc>
-    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gycwest.com/registration/volunteer/</loc>
     <lastmod>2018-12-02T00:00:00+00:00</lastmod>
   </url>
@@ -39,6 +34,11 @@
   
   <url>
     <loc>https://gycwest.com/about/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gycwest.com/registration/</loc>
     <lastmod>2017-03-31T00:00:00+00:00</lastmod>
   </url>
   
