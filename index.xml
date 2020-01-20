@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Let these stand, 2019 on GYC West</title>
+    <title>20/20 Vision, Purpose Refocused, 2020 on GYC West</title>
     <link>https://gycwest.com/</link>
-    <description>Recent content in Let these stand, 2019 on GYC West</description>
+    <description>Recent content in 20/20 Vision, Purpose Refocused, 2020 on GYC West</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gycwest.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,20 @@
     <item>
       <title>Archives</title>
       <link>https://gycwest.com/archives/</link>
-      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://gycwest.com/archives/</guid>
       <description>2019 — Let These Stand GYC West Yearly Main Event  God has called every generation to stand unflinchingly for Christ and His truth, and today is no different. Are you ready to stand though the heavens fall? Come aside with GYC West this summer for an unforgettable, outdoor experience down by the riverside at the Albion Field Station to prepare to stand in these last days for the final conflict ahead.</description>
+    </item>
+    
+    <item>
+      <title>Meet GYC West</title>
+      <link>https://gycwest.com/about/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/about/</guid>
+      <description>#inspiration_box { background-image: url(&#34;/img/texture-2136831.jpg&#34;); background-position: center; background-size: cover; background-repeat: no-repeat; }   Mission Statement GYC West is an organization of Seventh-day Adventist youth and young adults in the western United States. We believe that the Lord is forming His army of workers in these last days and our prayer is that GYC West would be a vessel through which Jesus Christ can reveal His will.
+Purpose GYC West seeks to provide an annual conference featuring high quality messages for young people living in the western portion of our country.</description>
     </item>
     
     <item>
@@ -55,16 +65,6 @@
       
       <guid>https://gycwest.com/donate/</guid>
       <description>#inspiration_box { background-image: url(&#34;/img/texture-2136831.jpg&#34;); background-position: center; background-size: cover; background-repeat: no-repeat; }   An Explanation GYC West seeks to provide an annual conference featuring high quality messages for young people living in the western portion of our country. We believe in the power of convocation and that when two or more are gathered together in the name of Jesus, He is there in the midst of us. We know the Lord will bless as we seek the unity that Christ wants for His church as exemplified in the Gospel of John chapter 17.</description>
-    </item>
-    
-    <item>
-      <title>Meet GYC West</title>
-      <link>https://gycwest.com/about/</link>
-      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gycwest.com/about/</guid>
-      <description>#inspiration_box { background-image: url(&#34;/img/texture-2136831.jpg&#34;); background-position: center; background-size: cover; background-repeat: no-repeat; }   Mission Statement GYC West is an organization of Seventh-day Adventist youth and young adults in the western United States. We believe that the Lord is forming His army of workers in these last days and our prayer is that GYC West would be a vessel through which Jesus Christ can reveal His will.
-Purpose GYC West seeks to provide an annual conference featuring high quality messages for young people living in the western portion of our country.</description>
     </item>
     
     <item>
