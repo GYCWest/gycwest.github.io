@@ -6,7 +6,7 @@
 		<meta name="author" content="GYC West">
 		<meta name="description" content="GYC West is a regional GYC conference in the Western part of the United States."/>
 		<meta http-equiv="content-language" content="en-us" />
-		<meta name="generator" content="Hugo 0.82.0" />
+		<meta name="generator" content="Hugo 0.83.1" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png"/>
 		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32"/>
@@ -238,21 +238,50 @@
 <script lang="text/javascript">
 	$(function() {
 		$("#speakers > article").click(function(event) {
-			console.debug("rwc", event.target.tagName);
 			event.stopPropagation();
 			if (event.target.tagName === "DETAILS") {
 				return;
 			}
-			var detail = $(event.delegateTarget).children("details");
-			detail.attr("open", !detail.attr("open"));
+			const detail = $(event.delegateTarget).children("details");
+			const previousState = detail.attr("open");
+			$("details").attr("open", false);
+			detail.attr("open", !previousState);
 		});
 		$("body").click(function() {
 			$("details").attr("open", false);
 		});
+
+		const now = new Date();
+		for (const el of $("[data-after], [data-before]")) {
+			const afterAttr = el.getAttribute("data-after");
+			const showAfter = new Date(afterAttr);
+			
+			const beforeAttr = el.getAttribute("data-before");
+			const showBefore = new Date(beforeAttr);
+
+			if (afterAttr && beforeAttr) {
+				if (showAfter < showBefore) {
+					// Only when between the two dates. After, inclusive. Before, exclusive.
+					el.style.display = (showAfter <= now && now < showBefore) ? el.style.display : "none";
+				}
+				else {
+					// Only when NOT between the two dates. After, inclusive. Before, exclusive.
+					el.style.display = (showAfter <= now && now < showBefore) ? el.style.display : "none";
+				}
+			}
+			else if (afterAttr) {
+				// Only when after, inclusive.
+				el.style.display = (showAfter <= now) ? el.style.display : "none";
+			}
+			else {
+				// Only when before, exclusive.
+				el.style.display = (now < showBefore) ? el.style.display : "none";
+			}
+		}
 	});
 </script>
 <script>(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
+		const js, fjs = d.getElementsByTagName(s)[0];
 		if (d.getElementById(id)) return;
 		js = d.createElement(s); js.id = id;
 		js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2';
@@ -327,83 +356,94 @@
 	</article>
 </section>
 -->
-<!--
 <section id="map" class="map">
 	<article>
-		<p>This <script type="text/javascript">if ((new Date()).getFullYear() < 2020) document.write("next ");</script>year's GYC West is being held at Barlow Group Camp, just south of Ruth Lake in Trinity County California.</p>
-		<!- - <p>This <script type="text/javascript">if ((new Date()).getFullYear() < 2020) document.write("next ");</script>year's GYC West is being held at <a href="https://www.google.com/maps/place/Sierra+Pines+Camp/@38.8108136,-120.1068735,17z">Barlow Group Camp</a>, up in the beautiful Sierra Nevadas just south of Ruth Lake.</p> - ->
-		<address>Barlow Group Camp, just off of Lower Mad River Rd at Barlow Camp Rd</address>
-		
-		<!- -
-			<p>A note about GPS: Google Maps has been proven to be accurate, however the last bit where you drive off of Highway 1 onto Albion Ridge Rd then onto Albion St can be a little difficult to see - it caught many of us the first time! When you turn off of Highway 1, pull into the parking lot you see in front of some small storefronts. Off the North-East end of the lot are two rough roads, the right fork is the one you are looking for - you'll see a little blue-on-white sign for the Albion Field Station.</p>
-			<p>Expect temperatures in the 50° to 70° range, with refreshingly moist ocean winds and lots of sun.</p>
-		- ->
-		<!- - <p>Be sure to bring an active mind, your Bible, and notepaper as this year's content is designed to bring you not only closer to our Savior, but also to give you the tools you need to become a strong worker for Him at your home and at your church.</p> - ->
+		<p>This <script type="text/javascript">if ((new Date()).getFullYear() < 2021) document.write("next ");</script>year's GYC West is being held at <a href="https://www.google.com/maps/place/Sierra+Pines+Camp/@38.8108136,-120.1068735,17z">Sierra Pines Camp</a>, up in the beautiful Sierra Nevadas just south of Lake Tahoe.</p>
+		<address>7169 Sierra Pines Rd, Twin Bridges, CA 95721</address>
 		<p>Be sure to bring an active mind, your Bible, and notepaper as this year's content is designed to bring you not only closer to our Savior, but also to give you the tools you need to become a strong worker for Him at your home and at your church.</p>
-		<p>Tent camping is recommended and RVs are welcome - there are no on-site cabins or other lodgings. Each campsite is limited to a maximum of 8 people and up to 2 vehicles.</p>
-		<p>Please review the <a href="https://www.ruthlakecsd.org/sidebar/map-of-ruth-lake/campground-rules/">campground rules</a> for detailed site rules.</p>
+		<p>Please be aware that we will be recording and live streaming our events, so please dress modestly.</p>
+		<!--
+		<p>This <script type="text/javascript">if ((new Date()).getFullYear() < 2020) document.write("next ");</script>year's GYC West is being held at Barlow Group Camp, just south of Ruth Lake in Trinity County California.</p>
+		<address>Barlow Group Camp, just off of Lower Mad River Rd at Barlow Camp Rd</address>
+		-->
+		<!--
+		<p>A note about GPS: Google Maps has been proven to be accurate, however the last bit where you drive off of Highway 1 onto Albion Ridge Rd then onto Albion St can be a little difficult to see - it caught many of us the first time! When you turn off of Highway 1, pull into the parking lot you see in front of some small storefronts. Off the North-East end of the lot are two rough roads, the right fork is the one you are looking for - you'll see a little blue-on-white sign for the Albion Field Station.</p>
+		<p>Expect temperatures in the 50° to 70° range, with refreshingly moist ocean winds and lots of sun.</p>
+		-->
+		<!-- <p>Tent camping is recommended and RVs are welcome - there are no on-site cabins or other lodgings. Each campsite is limited to a maximum of 8 people and up to 2 vehicles.</p> -->
+		<!-- <p>Please review the <a href="https://www.ruthlakecsd.org/sidebar/map-of-ruth-lake/campground-rules/">campground rules</a> for detailed site rules.</p> -->
+		
+		<h1>History Note</h1>
+		<p>This site once belonged to the Adventist church - before Leoni Meadows was purchased. The main building, currently known as Judson Lodge, was built in the 1940s and Seventh-Day Adventist missionaries from around the world sent rocks and shells from their various missions that were all incorporated into the fireplace at the ends of the building.</p>
+		<p>Come and visit this historic location! One of our many goals for this event is to do what we can to improve the site to those around us, so come with a heart and mind willing to work for the Lord.</p>
 	</article>
 	<iframe src="//www.google.com/maps/embed/v1/place?q=40.2959605,-123.338869
 		&zoom=16
 		&key=AIzaSyBkIpJw0XsFQoMjgJqBoaUbD0EyHm6u4GE">
 	</iframe>
 </section>
--->
-<!--
 <section id="schedule">
 	<article>
 		<h1>Schedule</h1>
 		<div class="columns">
 			<div>
-				<h2><time datetime="2020-07-24">Friday</time></h2>
-				<p><time datetime="2020-07-24T14:00-07:00">2pm</time> - Sign-in opens - be sure to <a href="/registration">register online</a> to speed things up!</p>
+				<h2><time datetime="2021-08-04">Wednesday</time></h2>
+				<p><time datetime="2021-08-04T15:00-07:00">3pm</time> - Sign-in opens - be sure to <a href="/registration">register online</a> to speed things up!</p>
 			</div>
-			<p><time datetime="2020-07-24T18:00-07:00">6:00pm</time> - Evening Plenary</p>
-			<p><time datetime="2020-07-24T19:45-07:00">8:00pm</time> - Campfire Fellowship</p>
-			<p><time datetime="2020-07-24T20:45-07:00">8:45pm</time> - United Prayer</p>
+			<!--
+			<p><time datetime="2021-08-04T18:00-07:00">6:00pm</time> - Evening Plenary</p>
+			<p><time datetime="2021-08-04T19:45-07:00">8:00pm</time> - Campfire Fellowship</p>
+			<p><time datetime="2021-08-04T20:45-07:00">8:45pm</time> - United Prayer</p>
+			-->
+			
+			<div>
+				<h2>Event schedule</h2>
+				<p>Coming soon!</p>
+			</div>
+			<!--
+			<div>
+				<h2><time datetime="2021-08-05">Sabbath</time></h2>
+				<p><time datetime="2021-08-05T06:45-07:00">6:45am</time> - United Prayer</p>
+			</div>
+			<p><time datetime="2021-08-05T07:30-07:00">7:30am</time> - Breakfast</p>
+			<p><time datetime="2021-08-05T09:30-07:00">9:30am</time> - Start of Sabbath School</p>
+			<p><time datetime="2021-08-05T10:45-07:00">10:45am</time> - Start of Church service</p>
+			<p><time datetime="2021-08-05T12:30-07:00">12:30pm</time> - Lunch</p>
+			<p><time datetime="2021-08-05T13:30-07:00">1:30pm</time> - Nature time</p>
+			<p><time datetime="2021-08-05T18:00-07:00">6:00pm</time> - Evening Plenary</p>
+			<p><time datetime="2021-08-05T19:45-07:00">7:45pm</time> - Campfire Fellowship</p>
+			<p><time datetime="2021-08-05T20:45-07:00">8:45pm</time> - United Prayer</p>
+			-->
 
 			<div>
-				<h2><time datetime="2020-07-25">Sabbath</time></h2>
-				<p><time datetime="2020-07-25T06:45-07:00">6:45am</time> - United Prayer</p>
+				<h2><time datetime="2021-08-08">Sunday</time></h2>
+			<!--
+				<p><time datetime="2021-08-08T06:45-07:00">6:45am</time> - United Prayer</p>
 			</div>
-			<p><time datetime="2020-07-25T07:30-07:00">7:30am</time> - Breakfast</p>
-			<p><time datetime="2020-07-25T09:30-07:00">9:30am</time> - Start of Sabbath School</p>
-			<p><time datetime="2020-07-25T10:45-07:00">10:45am</time> - Start of Church service</p>
-			<p><time datetime="2020-07-25T12:30-07:00">12:30pm</time> - Lunch</p>
-			<p><time datetime="2020-07-25T13:30-07:00">1:30pm</time> - Nature time</p>
-			<p><time datetime="2020-07-25T18:00-07:00">6:00pm</time> - Evening Plenary</p>
-			<p><time datetime="2020-07-25T19:45-07:00">7:45pm</time> - Campfire Fellowship</p>
-			<p><time datetime="2020-07-25T20:45-07:00">8:45pm</time> - United Prayer</p>
-
-			<div>
-				<h2><time datetime="2020-07-26">Sunday</time></h2>
-				<p><time datetime="2020-07-26T06:45-07:00">6:45am</time> - United Prayer</p>
+			<p><time datetime="2021-08-08T07:30-07:00">7:30am</time> - Breakfast</p>
+			<p><time datetime="2021-08-08T08:30-07:00">8:30am</time> - Morning Plenary & Send-off</p>
+			<p><time datetime="2021-08-08T09:30-07:00">9:30am</time> - Clean your spaces - leave it better than you found it!</p>
+			-->
+				<p><time datetime="2021-08-08T09:00-07:00">9am</time> - Full cleanup. We need your help, just ask us!</p>
 			</div>
-			<p><time datetime="2020-07-26T07:30-07:00">7:30am</time> - Breakfast</p>
-			<p><time datetime="2020-07-26T08:30-07:00">8:30am</time> - Morning Plenary & Send-off</p>
-			<p><time datetime="2020-07-26T09:30-07:00">9:30am</time> - Clean your spaces - leave it better than you found it!</p>
-			<p><time datetime="2020-07-26T11:00-07:00">11am</time> - Full cleanup. We need your help, just ask us!</p>
-			<p><time datetime="2020-07-26T12:00-07:00">12pm</time> - Final checkout.</p>
+			<p><time datetime="2021-08-08T12:00-07:00">12pm</time> - Final checkout.</p>
 		</div>
 	</article>
 </section>
--->
-<!--
 <section id="registration-info">
 	<article>
 		<h1>Pricing and site notes</h1>
-		<p>Registration is $29 per person for the whole weekend.</p>
-		<p>Those who want to just come up Sabbath, please register for the weekend - even if you don't want to stay the night.</p>
-		<p>Sabbath lunch will be provided. Please bring meal supplies for yourself and your group for all other meals.</p>
+		<p data-before="2021-06-01 GMT-0700">Until June 1st registration is $16 per person for the whole weekend. Aftwards it will be $25 per person. Meals and lodging are priced separately.</p>
+		<p data-after="2021-06-01 GMT-0700">Registration is $25 per person for the whole weekend. Meals and lodging are priced separately.</p>
+		<p>Those who want to just come up Sabbath, please register for the weekend - even if you don't want to stay the night. Also please pre-purchase meals prior to the start of Sabbath or supply your own meals for that time.</p>
+		<p>Parking is limited, so please carpool where possible.</p>
 		<p>The on-site water is potable, but not recommended, so bring plenty of water.</p>
 		<p>Attended campfires are allowed within designated fire pits, though you'll have to supply your own firewood.</p>
 		<p>Expect mountain trail hiking, so pack what you'll need for it - especially water.</p>
 		<p>Due to California's restrictions, we will be practicing social distancing and wearing face masks where required. Please bring and wear a face mask when needed. While the sun and fresh air have both healing and sanitizing properties, we should strive to be both model citizens and strong witnesses for God through the practice of the health ministry that we as a people have been given.</p>
-		<!- - <p>Please be aware that we will be recording and live streaming our events, so please dress modestly.</p> - ->
 		<p>Please be aware that we will be recording and photographing our events, so please dress modestly.</p>
 	</article>
 </section>
--->
 <section>
 	<h1>Social Media</h1>
 	<p>Follow our social media platforms, Facebook and Instagram, for the latest updates as well as GYC website. May God bless you and keep you.</p>
