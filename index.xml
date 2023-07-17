@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gycwest.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Handout downloads for GYC West 2023</title>
+      <link>https://gycwest.com/handouts/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gycwest.com/handouts/</guid>
+      <description>  Printable documents  2023 bulletin insert - designed to print in full color on 8.5x11 inch paper. 2023 poster - designed to print in full color on 11x17 inch paper.   </description>
+    </item>
+    
+    <item>
       <title>Archives</title>
       <link>https://gycwest.com/archives/</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
@@ -35,15 +44,6 @@ Purpose GYC West seeks to provide an annual conference featuring high quality me
       <guid>https://gycwest.com/registration/volunteer/</guid>
       <description>body  section:first-of-type::before { background-image: none; } iframe { width: 100%; height: 800px; }   
  -- Loading...   </description>
-    </item>
-    
-    <item>
-      <title>Handout downloads for GYC West 2018</title>
-      <link>https://gycwest.com/handouts/</link>
-      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://gycwest.com/handouts/</guid>
-      <description>  Printable Flyers  2018 Flyer   </description>
     </item>
     
     <item>
